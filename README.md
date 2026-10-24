@@ -34,8 +34,8 @@ Demo: [expensecontrol.thepuchadesproject.com](https://expensecontrol.thepuchades
 Since this is a learning project, I plan to improve it over time:
 
 - [x] Initial setup with TailwindCSS.
-- [ ] Implement initial budget form and validation.
-- [ ] Set up Context API and global state.
+- [x] Implement initial budget form and validation.
+- [x] Set up Context API and global state.
 - [ ] Add the modal and expense form.
 - [ ] Display and filter expenses.
 - [ ] Add interactive charts and local storage persistence.
@@ -84,8 +84,8 @@ Demo: [expensecontrol.thepuchadesproject.com](https://expensecontrol.thepuchades
 Al ser un proyecto para aprender, tengo pensado ir completando las siguientes fases:
 
 - [x] Configuración inicial con TailwindCSS.
-- [ ] Implementar el formulario de presupuesto inicial y su validación.
-- [ ] Configurar Context API y el estado global.
+- [x] Implementar el formulario de presupuesto inicial y su validación.
+- [x] Configurar Context API y el estado global.
 - [ ] Añadir ventana modal y formulario de gastos.
 - [ ] Mostrar y filtrar los gastos introducidos.
 - [ ] Añadir gráficas interactivas y guardar en localStorage.
