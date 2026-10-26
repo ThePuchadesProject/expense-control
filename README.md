@@ -36,7 +36,7 @@ Since this is a learning project, I plan to improve it over time:
 - [x] Initial setup with TailwindCSS.
 - [x] Implement initial budget form and validation.
 - [x] Set up Context API and global state.
-- [ ] Add the modal and expense form.
+- [x] Add the modal and expense form.
 - [ ] Display and filter expenses.
 - [ ] Add interactive charts and local storage persistence.
 
@@ -86,7 +86,7 @@ Al ser un proyecto para aprender, tengo pensado ir completando las siguientes fa
 - [x] Configuración inicial con TailwindCSS.
 - [x] Implementar el formulario de presupuesto inicial y su validación.
 - [x] Configurar Context API y el estado global.
-- [ ] Añadir ventana modal y formulario de gastos.
+- [x] Añadir ventana modal y formulario de gastos.
 - [ ] Mostrar y filtrar los gastos introducidos.
 - [ ] Añadir gráficas interactivas y guardar en localStorage.
 
