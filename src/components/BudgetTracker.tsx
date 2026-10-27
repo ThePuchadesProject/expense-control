@@ -15,9 +15,9 @@ export default function BudgetTracker() {
           Reset app
         </button>
 
-        <AmountDisplay label="Budget" amount={300} />
-        <AmountDisplay label="Available" amount={200} />
-        <AmountDisplay label="Spent" amount={100} />
+        <AmountDisplay label="Budget" amount={300} colorClass="text-white" />
+        <AmountDisplay label="Available" amount={200} colorClass="text-white" />
+        <AmountDisplay label="Spent" amount={100} colorClass="text-white" />
       </div>
     </div>
   );
