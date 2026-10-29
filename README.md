@@ -37,8 +37,8 @@ Since this is a learning project, I plan to improve it over time:
 - [x] Implement initial budget form and validation.
 - [x] Set up Context API and global state.
 - [x] Add the modal and expense form.
-- [ ] Display and filter expenses.
-- [ ] Add interactive charts and local storage persistence.
+- [x] Display and filter expenses.
+- [x] Add interactive charts and local storage persistence.
 
 ### How to run it locally
 
@@ -87,8 +87,8 @@ Al ser un proyecto para aprender, tengo pensado ir completando las siguientes fa
 - [x] Implementar el formulario de presupuesto inicial y su validación.
 - [x] Configurar Context API y el estado global.
 - [x] Añadir ventana modal y formulario de gastos.
-- [ ] Mostrar y filtrar los gastos introducidos.
-- [ ] Añadir gráficas interactivas y guardar en localStorage.
+- [x] Mostrar y filtrar los gastos introducidos.
+- [x] Añadir gráficas interactivas y guardar en localStorage.
 
 ### Cómo ejecutarlo en local
 
